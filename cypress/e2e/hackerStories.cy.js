@@ -159,8 +159,7 @@ describe('Hacker Stories', () => {
         })
       })
     })
-
-
+    
     context('Search', () => {
   
       beforeEach(() => {
